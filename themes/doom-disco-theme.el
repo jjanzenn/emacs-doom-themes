@@ -38,7 +38,7 @@ Can be an integer to determine the exact padding."
   :group 'doom-disco-theme
   :type '(choice integer boolean))
 
-(defcustom doom-disco-region-highlight t
+(defcustom doom-disco-region-highlight 'frost
   "Determines the selection highlight style. Can be 'frost, 'snowstorm or t
 (default)."
   :group 'doom-disco-theme
