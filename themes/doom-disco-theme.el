@@ -53,18 +53,18 @@ Can be an integer to determine the exact padding."
 
                 ;; name        default   256       16
                 ((bg         '("#ece0c9" nil       nil))
-                 (bg-alt     '("#ece0c9" nil       nil)) ; TODO
-                 (base0      '("#191916" "black"   "black")) ; TODO
-                 (base1      '("#293c3c" "brightblack" "brightblack")) ; TODO
-                 (base2      '("#293c3c" "brightblack" "brightblack")) ; TODO
-                 (base3      '("#293c3c" "brightblack" "brightblack")) ; TODO
-                 (base4      '("#293c3c" "brightblack" "brightblack")) ; TODO
-                 (base5      '("#293c3c" "brightblack" "brightblack")) ; TODO
-                 (base6      '("#293c3c" "brightblack" "brightblack")) ; TODO
-                 (base7      '("#293c3c" "brightblack" "brightblack")) ; TODO
-                 (base8      '("#ece0c9" "white" "white")) ; TODO
-                 (fg         '("#191916" "white" "white"))
-                 (fg-alt     '("#191916" "brightwhite" "brightwhite")) ; TODO
+                 (bg-alt     '("#f4e6d1" nil       nil))
+                 (base0      '("#fdfcf6" "white"   "white"))
+                 (base1      '("#ece0c9" "brightwhite" "brightwhite"))
+                 (base2      '("#eed5ac" "brightwhite" "brightwhite"))
+                 (base3      '("#d2caa1" "brightwhite" "brightwhite"))
+                 (base4      '("#cfbc8c" "brightwhite" "brightwhite"))
+                 (base5      '("#c6ad76" "brightblack" "brightblack"))
+                 (base6      '("#7d5b4b" "brightblack" "brightblack"))
+                 (base7      '("#303f49" "brightblack" "brightblack"))
+                 (base8      '("#191916" "black" "black"))
+                 (fg         '("#191916" "black" "black"))
+                 (fg-alt     '("#0f1013" "brightblack" "brightblack"))
 
                  (grey base4)
                  (red       '("#ac4438" "red" "red"))
