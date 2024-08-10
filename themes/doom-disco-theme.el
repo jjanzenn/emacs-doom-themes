@@ -1,6 +1,8 @@
 ;;; doom-disco.el --- inspired by Atom One Dark -*- lexical-binding: t; no-byte-compile: t; -*-
 ;;
-;; Author: Jacob Janzen
+;; Added August 9, 2024
+;; Author: Jacob Janzen <https://github.com/JacobJanzen>
+;; Maintainer: Jacob Janzen <https://github.com/JacobJanzen>
 ;;
 ;;; Commentary:
 ;;
