@@ -54,11 +54,11 @@ Can be an integer to determine the exact padding."
 
                 ;; name        default   256       16
                 ((bg         '("#ff8cd9" nil       nil))
-                 (bg-alt     '("#fa97d9" nil       nil))
-                 (base0      '("#f5a3db" "white"   "white"))
-                 (base1      '("#f0b0dc" "brightwhite" "brightwhite"))
-                 (base2      '("#ebbddd" "brightwhite" "brightwhite"))
-                 (base3      '("#e6c9df" "brightwhite" "brightwhite"))
+                 (bg-alt     '("#ff9c86" nil       nil))
+                 (base0      '("#ccc075" "white"   "white"))
+                 (base1      '("#94d4aa" "brightwhite" "brightwhite"))
+                 (base2      '("#96d8e1" "brightwhite" "brightwhite"))
+                 (base3      '("#c7d4ee" "brightwhite" "brightwhite"))
                  (base4      '("#e2d7e1" "brightwhite" "brightwhite"))
                  (base5      '("#b7aeb6" "brightblack" "brightblack"))
                  (base6      '("#8c868c" "brightblack" "brightblack"))
