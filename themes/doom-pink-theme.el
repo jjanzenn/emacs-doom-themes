@@ -69,7 +69,7 @@ Can be an integer to determine the exact padding."
 
                  (grey base4)
                  (red       '("#a80f20" "red" "red"))
-                 (orange    '("#d91329" "brightred" "brightred"))
+                 (orange    '("#ffaf00" "brightred" "brightred"))
                  (green     '("#bafc8b" "green" "green"))
                  (teal      '("#d3ffaf" "brightgreen" "brightgreen"))
                  (yellow    '("#ffef50" "yellow" "yellow"))
